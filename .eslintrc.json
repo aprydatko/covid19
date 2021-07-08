@@ -37,6 +37,11 @@
 		"react-hooks/exhaustive-deps": "warn",
 		"import/prefer-default-export": "off",
 		"react/prop-types": "off",
+        // "linebreak-style": ["error", "windows"],
+        "linebreak-style": 0,
+        // "indent": [2, "tab"],
+        // "no-tabs": 0,
+        "space-infix-ops": 0,
 		"max-len": ["warn", { "code": 80 }],
 		"@typescript-eslint/explicit-function-return-type": [
 			"error",
